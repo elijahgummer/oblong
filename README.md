@@ -1,7 +1,10 @@
 # Oblong Oblong README 🚀
 
 ---
+![image](https://github.com/elijahgummer/oblong/assets/96103526/2e2efb9f-a251-490b-8c01-08195be571c5)
+![image](https://github.com/elijahgummer/oblong/assets/96103526/d98be3d5-8910-49df-bc18-719311a97316)
 
+---
 ## Overview
 
 Welcome to Oblong Oblong, a 2D wave shooter game! Oblong Oblong is a simple yet engaging game where you survive waves of enemies by shooting them down. Get ready to test your reflexes and shooting skills in this adrenaline-pumping adventure!
